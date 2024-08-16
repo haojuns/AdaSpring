@@ -1,4 +1,4 @@
-# Enabling Resource-efficient AIoT System with Cross-level Optimization: A survey
+# AdaSpring: Context-adaptive and Runtime-evolutionary Deep Model Compression for Mobile Applications
 
 > 深度学习驱动的移动应用通过模型压缩在资源有限的设备上本地部署，以实现稳健且私密的环境感知。然而，现有的DNN压缩技术要么手工设计以优化模型性能，要么按需压缩以优化硬件指标，但都无法在线运行且未考虑动态部署环境。为此，我们提出了AdaSpring，一个上下文自适应、自进化的DNN压缩框架，实现本地在线的自适应压缩。我们的研究成果《**[AdaSpring: Context-adaptive and Runtime-evolutionary Deep Model Compression for Mobile Applications](https://dl.acm.org/doi/10.1145/3448125)**》已发表在Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies。
 
